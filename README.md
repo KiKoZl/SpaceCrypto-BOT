@@ -4,6 +4,8 @@ Automatic BOT for NFT GAME Space Crypto
 Este é uma automação (bot) para jogar o jogo SpaceCrypto, esse bot automaticamente loga no jogo, coloca as naves para trabalhar, atualiza o jogo para não cair por tempo de resposta, checa novos boss, etc.
 
 
+**ESSE BOT FOI CRIADO DE UM FORK DO mpcabete CRIADOR ORIGINAL DO BOT PARA BOMB CRYPTO, ELE SÓ É UMA MODIFICAÇÃO PARA SPACE CRYPTO**
+
 ## Observações
 Verifique o tópico de Requisitos para ter certeza em qual ambiente e versões nós sabemos que funciona.
 Sugiro que você desative o recurso 'Notícias e interesses' do Windows, pois o mouse pode passar por ele e clicar em algum cartão sem que saibamos. Você pode desativar esse recurso em Ativar e desativar o recurso de notícias e interesses.
