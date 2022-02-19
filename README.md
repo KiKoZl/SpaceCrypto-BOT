@@ -22,15 +22,24 @@ Criar bot do Telegram se necessário
 Estrutura do projeto
 .
 └── SpaceCrypto-BOT
+
     ├── main.py                    # inicia nosso app
+    
     ├── bot.py                     # todos os movimentos e mecânicas para o bot
+    
     ├── controllers.py             # todos os controles para ajudar o bot a rodar
+    
     ├── config.yaml                # todas as configurações para ajudar o bot a rodar
+    
     └── logs                       # todos os arquivos log são salvos aqui
+    
     └── static
+    
         ├── img
             ├── game               # todas as imagens relacionadas ao jogo estarão aqui
+            
             ├── readme             # todas as imagens relacionadas ao repositório
+            
             ├── screenshot         # todas as imagens tiradas da tela (pasta será criada automaticamente)
 Tutorial
 
